@@ -1,0 +1,25 @@
+/* Css is not part of homework but github doesnot upload empty css file for some reason*/
+body
+{font-family:monospace;
+font-size:2rem }
+#whatishtml{
+
+	display: block;
+	position:relative;
+	margin:auto;
+	border:.5rem solid black;
+	width:400px;
+	text-align: center;
+
+}
+img{width:inherit;}
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+.headings{margin:auto;
+text-align: center;
+}
